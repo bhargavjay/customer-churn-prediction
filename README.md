@@ -1,4 +1,5 @@
 # Customer Churn Prediction (Telco Dataset)
+Machine Learning Project | Python | Random Forest | SMOTE | Scikit-Learn
 
 ## 📌 Overview
 
@@ -98,7 +99,7 @@ Confusion Matrix:
 
 * Model helps identify high-risk customers
 * Enables targeted retention strategies
-* Estimated **59% ROI improvement** in retention campaigns
+* Supports targeted customer retention strategies and reduces customer attrition risk.
 * Supports data-driven decision-making in telecom industry
 
 ---
@@ -111,7 +112,7 @@ Python • Pandas • NumPy • Scikit-learn • SMOTE • Matplotlib • Seabor
 
 ## 📁 Project Structure
 
-* Notebook: Customer-Churn-Code.ipynb
+* Notebook: Customer-Churn-Prediction.ipynb
 * Dataset: Telco Customer Churn CSV
 * Visualisations: EDA plots, ROC curve, confusion matrix
 
